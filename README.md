@@ -14,6 +14,9 @@ It provides insights into employee attrition, demographics, job roles, and workf
 - `reports/` → Power BI file (`.pbix`) + PDF summary.
 - `images/` → Dashboard screenshots.
 
+## 📸 Dashboard Preview
+images/Screenshot (168).png
+
 ## 🎯 Purpose
 Built as a **portfolio project** for placements to demonstrate 
 **Power BI, data storytelling, and analytics skills**.
