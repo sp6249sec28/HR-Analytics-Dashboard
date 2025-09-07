@@ -15,7 +15,7 @@ It provides insights into employee attrition, demographics, job roles, and workf
 - `images/` → Dashboard screenshots.
 
 ## 📸 Dashboard Preview
-images/Screenshot (168).png
+![Dashboard Screenshot](images/Screenshot (168).png)
 
 ## 🎯 Purpose
 Built as a **portfolio project** for placements to demonstrate 
