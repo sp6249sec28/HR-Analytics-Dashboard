@@ -15,7 +15,7 @@ It provides insights into employee attrition, demographics, job roles, and workf
 - `images/` → Dashboard screenshots.
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](images/Screenshot (168).png)
+[![Dashboard Screenshot](images/Screenshot (168).png)](https://github.com/sp6249sec28/HR-Analytics-Dashboard/blob/d4c78439064aec3dfcc88e390a06c212aaab54fc/images/Screenshot%20(168).png)
 
 ## 🎯 Purpose
 Built as a **portfolio project** for placements to demonstrate 
